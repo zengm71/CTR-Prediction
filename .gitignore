@@ -1,0 +1,6 @@
+
+*.crc
+*.parquet
+full_data/.test.txt.icloud
+full_data/.train.txt.icloud
+full_data/*
